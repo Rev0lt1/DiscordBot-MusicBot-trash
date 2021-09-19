@@ -100,4 +100,4 @@ client.on('message', async message =>{
     }
 });
 
-client.login('ODQzNTY0NDI4ODYzMDc4NDUw.YKFsmA.48TPqmCt-cPmTdwHe8qkpSYS_AQ')
+client.login('')
