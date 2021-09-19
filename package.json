@@ -1,0 +1,19 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "FanatiX",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "i": "^0.3.6",
+    "install": "^0.13.0",
+    "node-pre-gyp": "^0.17.0",
+    "npm": "^7.13.0",
+    "opusscript": "0.0.8"
+  }
+}
